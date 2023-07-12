@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="ko" dir="ltr">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Document</title>
+    <link rel="stylesheet" href="../css/style.css">
+</head>
+
+<body>
+    <div class="center">
+        <h1 class="fontB">Chaptor 02. c언어와 파이썬 </h1>
+        <img src="../이미지/1_chaptor2-2.png">
+        <p class="font">
+파이썬은 우선 프로그래밍을 할 때 오류가 생기지 않을 수 는 없는데 </p>
+이때 오류에 빠른 대처와 수정을 할 수 있는 고수준 언어가 좋을 것 같다는 생각이 드네.</P>
+그리고 다수의 사람이 많은 활동에선 </P>
+원활한 진행을 위해 이해하기 쉬운 언어(고수준)가 좋을것 같넹...
+
+        </p>
+        <canvas id="myCanvas" width="500" height="500"></canvas>
+
+    </div>
+
+    <div>
+        <button class="btn1" onClick="location.href='">></button>
+    </div>
+</body>
+</html>
